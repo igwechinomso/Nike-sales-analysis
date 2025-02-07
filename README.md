@@ -7,5 +7,5 @@ The project was designed answer some key business questions which include:
     Which price tier generates the most revenue?
 The project also provided key insights and recomendations
 
-##Dataset Used
+## Dataset Used
 - <a href = "https://github.com/igwechinomso/Nike-sales-analysis/blob/main/nike_sales_2024.csv">View or Download</a>
