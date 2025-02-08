@@ -15,4 +15,4 @@ The project also provided key insights and recomendations
  PowerBi visuals to display the key metrics.
 
  ## Dashboard 
- - <a href = "         ">View or Download</a>
+ - <a href = "https://github.com/igwechinomso/Nike-sales-analysis/blob/main/nike%20sales%20analysis%202024%20(3)%20(1).pbit">View or Download</a>
