@@ -9,3 +9,10 @@ The project also provided key insights and recomendations
 
 ## Dataset Used
 - <a href = "https://github.com/igwechinomso/Nike-sales-analysis/blob/main/nike_sales_2024.csv">View or Download</a>
+
+## Key tools Used
+ DAX and Excel for both data cleaning, modeling and determining key KPIs.
+ PowerBi visuals to display the key metrics.
+
+ ## Dashboard 
+ - <a href = "         ">View or Download</a>
